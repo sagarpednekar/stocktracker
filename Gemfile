@@ -10,6 +10,8 @@ gem 'devise'
 gem 'sass-rails', '~> 5.0'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+# gem for stock tracking
+gem 'stock_quote'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
